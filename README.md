@@ -1,7 +1,7 @@
 # hackathon_rapid_2018
-* Data Extraction
-* Data Transformation
-* Data Cleaning
+
+* Data Discovery
+* Data Preparation (Cleaning, Transformation)
 * Logistics Regression Model Training
 * Logistics Regression Model Testing
 
